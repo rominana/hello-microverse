@@ -20,7 +20,7 @@ Run tests
 
 #### Authors 
 @microverse
-@rominana
+@rominana :paraguay:
 
 GitHub: @rominana
 Twitter: @romina_pati

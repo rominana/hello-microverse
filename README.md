@@ -13,20 +13,18 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 #### Prerequisites
-Setup Git and Github
-Install Npm and Linters
-Usage
-Run tests
+- Setup Git and Github
+- Install Npm and Linters
 
 #### Authors 
-@microverse
-@rominana :paraguay:
+* @microverse
 
-GitHub: @rominana
-Twitter: @romina_pati
-LinkedIn: (https://www.linkedin.com/in/romina-patino/)
+* @rominana :paraguay:
+- GitHub: @rominana
+- Twitter: @romina_pati
+- LinkedIn: (https://www.linkedin.com/in/romina-patino/)
 
-Contributions, issues, and feature requests are welcome!
+## *Contributions, issues, and feature requests are welcome*!
 
 Feel free to check the issues page.
 

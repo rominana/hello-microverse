@@ -1,6 +1,4 @@
-# HTML & CSS3 Course
-
-If you are not familiar with linters, read [root level README](../README.md).
+# "Hello Microverse" project
 
 ## Set-up GitHub Actions
 
